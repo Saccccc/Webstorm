@@ -16,4 +16,10 @@ Monitor different nutrients(like protein, fiber, fat, etc) taken
 Calculate ideal nutrients requirement based on BMI/ height/ weight
 Tracking user workout activities like walking, running, etc
 
-1.
+ADVANCE FEATURES:
+Create dietary plans as per user requirements.
+Visualize daily, weekly, and monthly nutrient intake reports
+Daily Drink Water Plan and Health Tips
+Set your daily workout goals
+
+
